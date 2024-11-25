@@ -1,0 +1,1 @@
+installed  Vs code, Node js and typescript
